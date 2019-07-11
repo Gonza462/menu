@@ -24,8 +24,8 @@ body {
 }
 
 .amazing-menu.-scrolled .menu-item {
-            -webkit-transform: perspective(40rem) translateY(-.5rem) scaleX(.95) rotateX(-40deg);
-                    transform: perspective(40rem) translateY(-.5rem) scaleX(.95) rotateX(-40deg);
+            -webkit-transform: perspective(40rem) translateY(-.5rem) scaleX(.95) rotateX(0deg);
+                    transform: perspective(40rem) translateY(-.5rem) scaleX(.95) rotateX(0deg);
         }
 
 .menu-item {
